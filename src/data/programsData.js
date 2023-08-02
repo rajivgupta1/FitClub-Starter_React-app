@@ -1,4 +1,4 @@
-export const programsData = [
+ const programsData = [
   {
     image: (
       <svg
@@ -50,6 +50,9 @@ export const programsData = [
       "This programs is designed for those who exercises only for their body fitness not body building.",
   },
 ];
+
+
+export default programsData;
 
 
 
